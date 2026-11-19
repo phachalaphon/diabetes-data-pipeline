@@ -1,0 +1,13 @@
+# ความลับ - ห้าม commit เด็ดขาด
+credentials.json
+.env
+
+# ข้อมูลขนาดใหญ่
+data/*.csv
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
